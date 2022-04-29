@@ -1,0 +1,9 @@
+{
+	"serviceID":"251385547",
+	"service":"HMSCoreToolkit",
+	"version":"6.3.0.301",
+	"packages": {
+		"hmstoolkitsdk-tool-6.3.0.301.zip":{"type":"Service","ID":""},
+		"hmstoolkitsdk-tool-6.3.0.301.zip":{"type":"Service","ID":""}
+	}
+}

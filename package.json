@@ -1,0 +1,11 @@
+{
+	"type":"combination",
+	"service":"HMS_Toolkit_Assemble",
+	"serviceID":"1932fd3c149b4579b9403435e9369065",
+	"version":"6.3.0.301",
+	"sequence":[],
+	"packages": {
+		"":"hmstoolkitsdk-tool-6.3.0.3003.AF.zip",
+		"":"hmstoolkitsdk-tool-6.3.0.301.zip"
+	}
+}
